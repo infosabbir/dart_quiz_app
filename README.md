@@ -1,16 +1,13 @@
-# dart_quiz_app
+<h1>Project Name: Dart Quiz App.</h1>
 
-A new Flutter project.
+Description: This simple Android app has a first welcome screen, a dart logo,
+and a button. If you click this button, it switches to another screen with questions and
+multiple answers, and then you have to choose to click this answer button. After
+finishing picking, it shows the result screen, which has a summary of results, how many
+answers are correct, and shows user-answer and correct-answer.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Resources:
+1. Flutter SDK( Software development kit).
+2. Visual Studio Code IDE.
+3. A virtual Android emulator.
+4. Dart Programming language, OOP concept.
