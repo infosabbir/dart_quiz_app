@@ -15,8 +15,9 @@ answers are correct, and shows user-answer and correct-answer.</p>
 </ol>
 
 <h2>Apps screenshot below: </h2>
-<img src = '
-![Screenshot_1699633153](https://github.com/infosabbir/dart_quiz_app/assets/70373782/2e978c27-9a07-4164-adfb-cbb0b877218a)
-![Screenshot_1699633140](https://github.com/infosabbir/dart_quiz_app/assets/70373782/75daa48a-aa8d-4354-a76c-a36054534ff5)
-![Screenshot_1699633129](https://github.com/infosabbir/dart_quiz_app/assets/70373782/6dff5f0b-8ee3-4f09-b00c-b62fb10d8ff2), width=200'/>
 
+
+
+![Screenshot_1699633153](https://github.com/infosabbir/dart_quiz_app/assets/70373782/f583b2bd-2cbc-4d8f-9f95-acd09c3a6d05)
+![Screenshot_1699633140](https://github.com/infosabbir/dart_quiz_app/assets/70373782/de9e44ce-17b0-43df-8962-c957fd2c93a6)
+![Screenshot_1699633129](https://github.com/infosabbir/dart_quiz_app/assets/70373782/da5b3a6f-a094-4807-8db5-0a58f29f604f)
