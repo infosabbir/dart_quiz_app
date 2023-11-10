@@ -6,7 +6,7 @@ multiple answers, and then you have to choose to click this answer button. After
 finishing picking, it shows the result screen, which has a summary of results, how many
 answers are correct, and shows user-answer and correct-answer.</p>
 
-<b>Resources:<b>
+<b>Resources:</b>
 <ol>
 <li>Flutter SDK( Software development kit).</li>
 <li>Visual Studio Code IDE.</li>
