@@ -8,10 +8,12 @@ class ResultScreen extends StatelessWidget {
     super.key,
     required this.chosenAnswer,
     required this.onRestart,
+    required this.homeScreen,
   });
 
   final List<String> chosenAnswer;
   final void Function() onRestart;
+  final void Function() homeScreen;
 
   List<Map<String, Object>> get summaryData {
     List<Map<String, Object>> summary = [];
@@ -64,6 +66,14 @@ class ResultScreen extends StatelessWidget {
               ),
               icon: const Icon(Icons.refresh),
               label: const Text('Restart'),
+            ),
+            TextButton.icon(
+              onPressed: homeScreen,
+              style: TextButton.styleFrom(
+                foregroundColor: Colors.amberAccent,
+              ),
+              icon: const Icon(Icons.home),
+              label: const Text('Home'),
             ),
           ],
         ),
